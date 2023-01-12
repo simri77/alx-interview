@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-""" method that calculates the fewest operaetions
-needed to result in exaxtly n and h characters"""
+""" fewest number of operations needed to result
+    in exactly n H characters in the file."""
 
 
 def minOperations(n):
