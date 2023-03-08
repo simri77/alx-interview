@@ -8,8 +8,10 @@ of prime numbers.
 def prime_numbers_between(n):
     """
     calculate prime numbers between 1 and n
+
     Args:
         n (int): the number to calculate prime numbers up to
+
     Returns:
         int: the number of prime numbers between 1 and n
     """
@@ -29,9 +31,11 @@ def prime_numbers_between(n):
 def isWinner(x, nums):
     """
     Determines the winner of a game of prime numbers.
+
     Args:
         x (int): the number of rounds to play
         nums (list): the list of numbers n to play
+
     Returns:
         string: the winner of the game (Ben or Maria)
     """
